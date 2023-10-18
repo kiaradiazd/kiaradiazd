@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Kiara Diaz</h1>
 <h3 align="center">I'm a QA analyst with knowledge of full stack development</h3>
 
-<hr>
+<br>
+<br>
 <p align="left">
 </p>
 
